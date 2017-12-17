@@ -1,0 +1,11 @@
+{
+  "name": "node-remote-repl",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "node './lib/repl-server'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristian Mardare",
+  "license": "ISC"
+}
